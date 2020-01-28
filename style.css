@@ -1,0 +1,64 @@
+body{
+	background-color: yellow;
+	align-content: center;
+	margin-left: 20%;
+}
+
+
+
+.logo{
+width: 100%;
+    height: 70px;
+    align-content: flex-end;
+    margin: 15%;
+    background-color: none;
+    padding-bottom: 2px;
+    padding-top: 2%;
+}
+
+
+.logo2{
+		align-content: center;
+	width: auto;
+ margin: 10px;
+ /*background-color: black;*/
+ float: inherit;
+/* width:10vh ;
+height:10vh;
+*/
+}
+
+
+img{
+background-color: black;
+border:1px;
+margin:2px;
+}
+
+
+
+.content{
+	width: auto;
+	margin: auto;
+	background-color: none;
+	color:black;
+	height: 50vh;
+}
+
+.content_cube{
+	width: 25%;
+	float: left;
+	
+}
+
+.cube{
+	background-color: black;
+	padding-top: 1%;
+	margin: 20px;
+}
+
+
+.center{
+ width: 100%;
+ margin: 0 auto;
+ }
